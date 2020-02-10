@@ -1,4 +1,4 @@
-# Desafio-Codenation
+# Desafio Codenation
 Escrever programa, em qualquer linguagem de programação, que faça uma requisição HTTP para a url abaixo:
 ```
 https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=SEU_TOKEN
